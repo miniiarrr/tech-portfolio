@@ -1,1 +1,1 @@
-# The website is available [here](site.miniiar.com)
+# The website is available [here](https://site.miniiar.com)
